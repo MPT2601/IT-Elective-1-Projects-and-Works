@@ -1,2 +1,2 @@
 # IT-Elective-1-Projects-and-Works
-Pretty self-explanatory from the title alone
+Practice set on conditional statements in C# for Elective 1
